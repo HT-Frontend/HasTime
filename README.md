@@ -1,2 +1,4 @@
 # HasTime
-The graduation design for the thesis.
+HasTime是一家连锁健身机构，致力于在高校、社区周边建立起完整的线下私教课程体系。
+本项目包含完整的前后端。
+三个小组分别负责后端、iOS与Android移动客户端、小程序客户端。
